@@ -54,7 +54,11 @@ gcc -Wall -Wextra -std=c11 simplefs_adder.c -o simplefs_adder
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+# Sample Visualizations
+![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/1ad7b84defcb347b6934baeaf3cdafb5386f538d/17/1.png)
+![Visualization 2](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/1ad7b84defcb347b6934baeaf3cdafb5386f538d/17/2.png)
+![Visualization 3](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/1ad7b84defcb347b6934baeaf3cdafb5386f538d/17/3.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
